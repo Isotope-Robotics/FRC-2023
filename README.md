@@ -1,6 +1,6 @@
 # FRC 2023
 
-Team 9709's 2023 FRC Robot Code for Pepto! The code was written in JAVA using WPILib's FRC Framework. This project also utilizes several third-party libraries 
+Team 7429's 2023 FRC Robot Code for Pepto! The code was written in JAVA using WPILib's FRC Framework. This project also utilizes several third-party libraries 
 such as REV Robotics, CTRE Phoenix, KauaiLabs NAVX, and FRC PathWeaver.
 
 # Libraries:
